@@ -1,10 +1,6 @@
 # PortfolioProjects
 
-Just some basic data related projects I have tried out in the past few months. 
-
-## Fantasy football data
-
-I thought a fun project would be visualizing how players do in fantasy football relative to their projections, the unique part to this would be grouping them, to see if some positions are more volitile, consistent, etc. 
+Just some basic data related projects I have tried out in the past few months. I have learned to create these using already existing code and learning how it works. However in my other repository names Fantas
 
 ## Machine Learning Projects
 
