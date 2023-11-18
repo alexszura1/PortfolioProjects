@@ -6,6 +6,7 @@ I thought a fun project would be visualizing how players do in fantasy football 
 
 ## Other Projects
 Some other basic data related projects I have tried out in the past few months are also included here, while the fantasy football project I created on my own, some of these other projects I learned from others online, to familiarize myself with tools that I had less experience with, like Tableau and SQL.
+(https://public.tableau.com/app/profile/alexander.szura/vizzes)
 
 ## Machine Learning Projects
 
