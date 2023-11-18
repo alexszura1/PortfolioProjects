@@ -15,3 +15,5 @@ Two of the larger ML projects I have worked on include an image classifier model
 ## Youtube, Kaggle, and ChatGPT credit
 
 Some datasets and tutorials I have found through Youtube and Kaggle, they also have example code that I can learn from and use as inspiration for my own projects. ChatGPT has been extrememly useful for me, I mostly use it to explain how lines of code work to ensure that I understand everything conceptually, explaining errors, and sometimes even to provide recommendations to make code more efficient or detailed.
+
+# Link to my About Me page: https://alexszura1.github.io/
