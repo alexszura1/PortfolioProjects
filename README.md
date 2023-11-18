@@ -5,7 +5,7 @@
 I thought a fun project would be visualizing how players do in fantasy football relative to their projections, the unique part to this would be grouping them, to see if some positions are more volitile, consistent, etc. I collected all of this data manually in excel where I did some manipulation. Then in python I cleaned it up and performed various analysis, this is all in the jupyter notebook file in the repository.
 
 ## Other Projects
-Some other basic data related projects I have tried out in the past few months are also included here, while the fantasy football project I created on my own, some of these other projects I learned from others online, to familiarize myself with tools that I had less experience with, like Tableau and SQL.
+Some other basic data related projects I have tried out in the past few months are also included here, while the fantasy football project I created on my own, some of these other projects I learned from others online, to familiarize myself with tools that I had less experience with, like Tableau and SQL. I'd like to continue doing these types of projects, I just have limited bandwidth at the moment.
 (https://public.tableau.com/app/profile/alexander.szura/vizzes)
 
 ## Machine Learning Projects
