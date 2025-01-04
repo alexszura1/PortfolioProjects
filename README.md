@@ -5,15 +5,21 @@ Inspired by my work in a clinical setting, this project focuses on streamlining 
 - **Frontend**: Designed a user-friendly interface to input and organize patient and provider notes.  
 - **Backend**: Developed RESTful APIs to securely process and store patient data.  
 - **ChatGPT API Integration**: Leveraged OpenAI's API to convert freeform text into structured clinical notes, improving workflow efficiency.  
-- **Deployment**: Successfully deployed the application using [deployment tools/platforms used, e.g., AWS, Heroku, etc.].  
-This project highlights my ability to use real-world inspiration and technical expertise to build impactful solutions.
+- **Deployment**: Successfully deployed the application using Render.  
+
+This site was created in less than a day, demonstrating my ability to efficiently deliver functional, real-world applications under tight time constraints.  
+
+[Visit the ScribeGPT Website](https://scribegpt.onrender.com)  
 
 ## Betting Calculator  
 This project was both technically challenging and a fun exploration of integrating mathematics into software development. **Betting Calculator** is a web-based tool where:  
 - **Frontend**: I built an intuitive UI to let users input odds, bet amounts, and calculate potential payouts dynamically.  
 - **Backend**: Wrote the mathematical logic to compute accurate betting odds and payouts.  
-- **Deployment**: Deployed the project online to ensure cross-platform accessibility.  
-This project was particularly rewarding as I had to incorporate mathematical concepts into the code, overcoming challenges to ensure precision.
+- **Deployment**: Deployed the project online using Render to ensure cross-platform accessibility.  
+
+This site was built in under five days and required innovative problem-solving to integrate mathematical computations into the code accurately.  
+
+[Visit the Betting Calculator Website](https://bettingcalculator.onrender.com)  
 
 ## Fantasy Football Project  
 I thought a fun project would be visualizing how players perform in fantasy football relative to their projections. The unique part of this project was grouping players to analyze positional volatility and consistency. I:  
@@ -36,5 +42,8 @@ Two of the larger ML projects I’ve worked on include:
 
 ## YouTube, Kaggle, and ChatGPT Credit  
 Some datasets and tutorials I’ve utilized come from YouTube and Kaggle, which often include example code for inspiration. ChatGPT has been extremely useful for explaining lines of code to ensure conceptual understanding, diagnosing errors, and offering recommendations to make code more efficient or detailed.
+
+### Note  
+Please keep in mind that these files will not include any `.env` files or sensitive information, as these are kept private for security purposes.
 
 # Link to my About Me page: [https://alexszura1.github.io/](https://alexszura1.github.io/)
