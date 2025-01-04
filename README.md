@@ -1,21 +1,40 @@
-# PortfolioProjects
+# Portfolio Projects
 
-## Fantasy football project
-I thought a fun project would be visualizing how players do in fantasy football relative to their projections, the unique part to this would be grouping them, to see if some positions are more volitile, consistent, etc. I collected all of this data manually in excel where I did some manipulation. Then in python I cleaned it up and performed various analysis, this is all in the jupyter notebook file in the repository.
+## ScribeGPT  
+Inspired by my work in a clinical setting, this project focuses on streamlining the scribing process for healthcare professionals. **ScribeGPT** is a full-stack web application showcasing skills in:  
+- **Frontend**: Designed a user-friendly interface to input and organize patient and provider notes.  
+- **Backend**: Developed RESTful APIs to securely process and store patient data.  
+- **ChatGPT API Integration**: Leveraged OpenAI's API to convert freeform text into structured clinical notes, improving workflow efficiency.  
+- **Deployment**: Successfully deployed the application using [deployment tools/platforms used, e.g., AWS, Heroku, etc.].  
+This project highlights my ability to use real-world inspiration and technical expertise to build impactful solutions.
 
-# Traffic Sign Image Classifier
-This is a project I worked on in a python course I took for my Master's degree, it uses a convolutional neural network to identify traffic signs, the notebook includes explanations and walks you through everything.
+## Betting Calculator  
+This project was both technically challenging and a fun exploration of integrating mathematics into software development. **Betting Calculator** is a web-based tool where:  
+- **Frontend**: I built an intuitive UI to let users input odds, bet amounts, and calculate potential payouts dynamically.  
+- **Backend**: Wrote the mathematical logic to compute accurate betting odds and payouts.  
+- **Deployment**: Deployed the project online to ensure cross-platform accessibility.  
+This project was particularly rewarding as I had to incorporate mathematical concepts into the code, overcoming challenges to ensure precision.
 
-## Other Projects
-Some other basic data related projects I have tried out in the past few months are also included here, while the fantasy football project I created on my own, some of these other projects I learned from others online, to familiarize myself with tools that I had less experience with, like Tableau and SQL. I'd like to continue doing these types of projects, I just have limited bandwidth at the moment.
-(https://public.tableau.com/app/profile/alexander.szura/vizzes)
+## Fantasy Football Project  
+I thought a fun project would be visualizing how players perform in fantasy football relative to their projections. The unique part of this project was grouping players to analyze positional volatility and consistency. I:  
+- Collected data manually in Excel and manipulated it.  
+- Cleaned the data in Python and performed various analyses.  
+- Documented everything in a Jupyter Notebook file in the repository.
 
-## Machine Learning Projects
+## Traffic Sign Image Classifier  
+This is a project I worked on during a Python course for my Master's degree. It uses a convolutional neural network to identify traffic signs. The notebook includes detailed explanations and walks through the process.
 
-Two of the larger ML projects I have worked on include an image classifier model used to detect street signs, this was done for a school project. Then during my free time, I worked with my friend on a U-net model to identify plane contrials to reduce global warming, this was for a Kaggle competition (https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming). 
+## Other Projects  
+Some basic data-related projects I’ve worked on recently are also included in the repository. While the fantasy football project was entirely my own, these other projects were inspired by online tutorials to familiarize myself with tools like Tableau and SQL. Although my bandwidth is currently limited, I’d like to continue exploring these kinds of projects.  
+[Link to Tableau Projects](https://public.tableau.com/app/profile/alexander.szura/vizzes)
 
-## Youtube, Kaggle, and ChatGPT credit
+## Machine Learning Projects  
+Two of the larger ML projects I’ve worked on include:  
+1. An image classifier model used to detect street signs, completed for a school project.  
+2. A U-Net model developed with a friend during my free time to identify contrails to reduce global warming. This was part of a Kaggle competition.  
+[Link to the Kaggle Competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
-Some datasets and tutorials I have found through Youtube and Kaggle, they also have example code that I can learn from and use as inspiration for my own projects. ChatGPT has been extrememly useful for me, I mostly use it to explain how lines of code work to ensure that I understand everything conceptually, explaining errors, and sometimes even to provide recommendations to make code more efficient or detailed.
+## YouTube, Kaggle, and ChatGPT Credit  
+Some datasets and tutorials I’ve utilized come from YouTube and Kaggle, which often include example code for inspiration. ChatGPT has been extremely useful for explaining lines of code to ensure conceptual understanding, diagnosing errors, and offering recommendations to make code more efficient or detailed.
 
-# Link to my About Me page: https://alexszura1.github.io/
+# Link to my About Me page: [https://alexszura1.github.io/](https://alexszura1.github.io/)
